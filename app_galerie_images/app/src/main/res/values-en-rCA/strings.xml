@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP3_Conrado Bhering_Design d\'Interface</string>
+    <string name="dataDeRemise">Delivery Date: 2020-09-04</string>
+    <string name="nomProgramme">DEC in Computer Science Technology New Media Programming</string>
+    <string name="tpEtEnseignant">Submitted to Pascal Guy</string>
+    <string name="grasset">Institut Grasset</string>
+    <string name="nomCours">Course: Interface Design</string>
+</resources>

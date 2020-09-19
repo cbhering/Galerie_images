@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TP3_Conrado Bhering_Design d\'Interface</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="nomEtPrenom" translatable="false">Conrado Bhering</string>
+    <string name="dataDeRemise">Date de Remise: 2020-09-04</string>
+    <string name="nomProgramme">DEC en Techniques de l’Informatique Profil Programmation Nouveaux Médias</string>
+    <string name="tpEtEnseignant">TP3 - Remis à Pascal Guy</string>
+    <string name="grasset">Institut Grasset</string>
+    <string name="nomCours">Cours: Design d\'Interface</string>
+</resources>
